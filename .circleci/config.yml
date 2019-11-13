@@ -16,4 +16,4 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: npm run test
-      - run: npm chromatic test --app-code=92d6gmuzryw --exit-zero-on-changes
+      - run: npx chromatic test --app-code=92d6gmuzryw --exit-zero-on-changes
