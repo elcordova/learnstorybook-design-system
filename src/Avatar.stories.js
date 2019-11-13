@@ -15,7 +15,7 @@ export const standard = () => (
   <Avatar
     size="large"
     username="Tom Coleman"
-    src="https://avatars2.githubusercontent.com/u/132554"
+    src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
   />
 );
 
@@ -24,22 +24,22 @@ export const sizes = () => (
     <Avatar
       size="large"
       username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
     />
     <Avatar
       size="medium"
       username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
     />
     <Avatar
       size="small"
       username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
     />
     <Avatar
       size="tiny"
       username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
     />
   </div>
 );
@@ -69,7 +69,7 @@ export const large = () => (
     <Avatar
       size="large"
       username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
     />
   </div>
 );
@@ -79,7 +79,7 @@ export const knobs = () => (
     loading={boolean('Loading')}
     size={select('Size', ['tiny', 'small', 'medium', 'large'])}
     username="Dominic Nguyen"
-    src="https://avatars2.githubusercontent.com/u/263385"
+    src="https://www.gravatar.com/avatar/26b27e7762b8bb9cd039ea765e6ae6e3"
   />
 );
 
